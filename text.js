@@ -1,0 +1,1 @@
+d3.select("body").append("svg").append("text").text("D3 text").attr("y", 20).attr("x", 0).style("fill", "blue");
